@@ -16,7 +16,7 @@ The goal of this project is to analyze 2022 weather data for Telangana and extra
 
 ## Data Source
 
-The weather data is obtained from [data.gov.in]([https://data.gov.in/](https://data.telangana.gov.in/)). You can find the dataset in the [data/](Datasets/) directory.
+The weather data is obtained from [data.gov.in]([https://data.gov.in/](https://data.telangana.gov.in/)). You can find the dataset in the [data](Datasets) directory.
 
 ## Getting Started
 
@@ -25,15 +25,15 @@ To get started with this project, follow these steps:
 1. Copy this repository to your local machine.
 2. Install the required Python libraries Numpy, Pandas, Matplotlib, Seaborn using 'pip install'.
 3. Download the weather dataset.
-4. Open the Jupyter Notebook files in the [notebooks/](Weather___Project(final).ipynb/) directory to run the analysis.
+4. Open the Jupyter Notebook files in the [notebooks](Weather___Project(final).ipynb) directory to run the analysis.
 
 ## Data Preparation
 
-Before analysis, we clean and preprocess the data, handling missing values, converting data types, and organizing the dataset for analysis. Refer to [notebooks/](Weather___Project(final).ipynb/) for details.
+Before analysis, I clean and preprocess the data, handling missing values, converting data types, and organizing the dataset for analysis. Refer to [notebooks](Weather___Project(final).ipynb) for details.
 
 ## Data Analysis
 
-We perform various analyses on the weather data, including:
+I perform various analyses on the weather data, including:
 
 - Descriptive statistics
 - Time series analysis
@@ -47,9 +47,9 @@ We perform various analyses on the weather data, including:
 
 2. **Rainfall Distribution:** Telangana experiences the majority of its annual rainfall during the monsoon season, from June to September. During this period, rainfall is abundant, contributing significantly to the region's water resources.
 
-3. **Temperature Variation by District:** We analyzed temperature variations across different districts of Telangana and identified variations based on geographic location and elevation.
+3. **Temperature Variation by District:** I analyzed temperature variations across different districts of Telangana and identified variations based on geographic location and elevation.
 
-4. **Correlation Analysis:** We conducted a correlation analysis between temperature and rainfall, revealing a negative correlation during the monsoon season and a positive correlation in the dry months.
+4. **Correlation Analysis:** I conducted a correlation analysis between temperature and rainfall, revealing a negative correlation during the monsoon season and a positive correlation in the dry months.
 
 There are some districts of Telangana where there is less rainfall and some are with high rainfall compared to other districts. It is better if government takes care about those places.
 
